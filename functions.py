@@ -13,11 +13,7 @@ def name():
 
 name() # calling a function
 
-def add():
 
-    x = int(input("Enter num :"))
-    y = int(input("Enter num :"))
-add()
 
 
 
@@ -28,3 +24,4 @@ def dog(name,breed,age):
     dog("Bob","German shepherd",5)
     dog("zawadi","chihuahua",3)
     dog("mike","siberian husky",6)
+
