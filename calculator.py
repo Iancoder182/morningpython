@@ -2,9 +2,9 @@
 
 
 
-num1 = float(input("Enter first number: "))
+num1 = int(input("Enter first number: "))
 operator = input("Enter operator: ")
-num2 = float(input("Enter last number: "))
+num2 = int(input("Enter last number: "))7
 
 
 if operator == '+':
